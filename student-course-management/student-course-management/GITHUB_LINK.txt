@@ -1,0 +1,2 @@
+Example GitHub Repository Link:
+https://github.com/yourusername/student-course-management
